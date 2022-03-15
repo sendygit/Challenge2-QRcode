@@ -21,6 +21,7 @@ body{
     width: 325px;
     padding: 20px;
     border-radius: 20px;
+    filter: drop-shadow(0 0 24px rgba(0, 0, 0, 0.1));
 }
 
 .box img{
